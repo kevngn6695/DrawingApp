@@ -1,4 +1,4 @@
-import "./media/styles/app.css";
+import "./assets/styles/app.css";
 
 import Header from "./components/Header.js";
 import Body from "./components/Body.js";
